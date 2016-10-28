@@ -25,3 +25,5 @@ For this example you need two microbits and one computer. The first microbit wil
 - Start the processing code by pressing the play button in the top left corner
   - If you get an error, it probably did not find your microbit. In the code [on line 17](https://github.com/tiigbg/microbit-examples/blob/master/eggdrop/eggdrop-graph.pde#L17) it is hardcoded to choose the first usb device it finds. Experiment with a higher number until it works.
 - Now you should get a purple graph on the black window
+  - There might be tiny gaps in the graph. That is because the code is not perfect.
+  - Sometimes the graph might stop for a short moment. This means something went wrong with the radio transmission. This is a known bug.
