@@ -27,3 +27,7 @@ For this example you need two microbits and one computer. The first microbit wil
 - Now you should get a purple graph on the black window
   - There might be tiny gaps in the graph. That is because the code is not perfect.
   - Sometimes the graph might stop for a short moment. This means something went wrong with the radio transmission. This is a known bug.
+
+
+## Credits
+- The graph code is based on an example from Tom Igoe
